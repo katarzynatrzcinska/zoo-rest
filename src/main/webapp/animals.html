@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Zoo Gdańsk</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" type="text/css" href="css/csszoo.css" />
+        <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script src="scripts/loadingAnimals.js"></script>
+    </head>
+    <body>
+        <div id="container"> 
+            <div id="header"></div>
+            <div id="bar"> 
+                <div class="menu"> <a href="index.html">Strona domowa</a> </div>
+                <div class="menu"> <a href="animals.html">Zwierzęta</a> </div>
+                <div class="menu"> <a href="map.html">Lokalizacja</a></div>
+                <div class="menu"> <a href="distance.html">Jak daleko?</a> </div>
+                <div class="menu"> <a href="weather.html">ZOObacz pogodę</a> </div>
+            </div>
+            <div id="page">
+
+            <form id="animals_form" action="javascript:loadAnimals()" method="post" enctype="multipart/form-data">
+                <p class="bodyTitle">Wybierz gatunek:
+                <select class="form_element" name="animal_spieces">
+                    <option>wszystkie</option>
+                    <option>płazy</option>
+                    <option>gady</option>
+                    <option>ptaki</option>
+                    <option>ssaki</option>
+                </select>
+                <br/>Wybierz miejsce występowania:
+                <select class="form_element" name="animal_place">
+                    <option>wszędzie</option>
+                    <option>Europa</option>
+                    <option>Ameryka Północna</option>
+                    <option>Ameryka Środkowa</option>
+                    <option>Ameryka Południowa</option>
+                    <option>Afryka</option>
+                    <option>Azja</option>
+                    <option>Australia</option>
+                </select></p>
+                <input type="submit" value="Wyświetl"/><br/><br/>
+            </form>
+
+            <div id="log">
+                <img src="images/panda.png"/>
+            </div>
+
+            </div> 
+        </div>
+    </body>
+</html>

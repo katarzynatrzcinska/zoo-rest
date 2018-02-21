@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Zoo Gdańsk</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" type="text/css" href="css/csszoo.css" />
+        <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script src="scripts/gettingWeatherData.js"></script>
+    </head>
+    <body>
+        <div id="container"> 
+            <div id="header"></div>
+            <div id="bar"> 
+                <div class="menu"> <a href="index.html">Strona domowa</a> </div>
+                <div class="menu"> <a href="animals.html">Zwierzęta</a> </div>
+                <div class="menu"> <a href="map.html">Lokalizacja</a></div>
+                <div class="menu"> <a href="distance.html">Jak daleko?</a> </div>
+                <div class="menu"> <a href="weather.html">ZOObacz pogodę</a> </div>
+            </div>
+            <div id="page">
+                <div class="bodyTitle">Wybierz liczbę dni dla prognozy pogody: </div> 
+                <input id="range" type="range" name="rangeInput" min="1" max="5" onchange="updateTextInput(this.value);"></br>
+                <input type="text" id="cnt-value" value="3" disabled></br></br>
+                <input type="button" class="metric" value="Wyświetl prognozę pogody dla Gdańska w Celcjuszach"/>
+                <input type="button" class="default" value="Wyświetl prognozę pogody dla Gdańska w Kelwinach"/></br></br></br>
+                <div id="log">
+                    <img src="images/giraffe.png"/>
+                </div>
+            </div> 
+        </div>
+    </body>
+</html>

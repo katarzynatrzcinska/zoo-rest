@@ -1,0 +1,65 @@
+1;rzekotka ¿abia;p³azy;Ameryka Po³udniowa;Deseñ z jasnych plamek na ciele jest kamufla¿em, który prawdopodobnie imituje ptasie odchody na ga³êziach drzew.
+2;anakonda ¿ó³ta;gady;Ameryka Po³udniowa;Do cia³a anakondy ¿ó³tej mog¹ przyczepiaæ siê kleszcze z rodziny Ixodidae. Zaobserwowano, ¿e w¹¿ ten mo¿e wydzielaæ specyficzn¹ substancjê zapachow¹ dzia³aj¹c¹ odstraszaj¹co na ten gatunek paso¿ytniczy.
+3;boa kubañski;gady;Ameryka Œrodkowa;IUCN  Red List - Lt – gatunek bliski zagro¿enia
+4;heloderma arizoñska;gady;Ameryka Pó³nocna;Toksyna helodermy arizoñskiej poddawana jest badaniom naukowym, poniewa¿ zawiera bia³ko, które mo¿e byæ pomocne w leczeniu cukrzycy typu 2.
+5;kajman szerokopyski;gady;Ameryka Po³udniowa;Kajman szerokopyski jest najstarszym mieszkañcem gdañskiego zoo i jedynym przedstawicielem tego gatunku w polskich ogrodach zoologicznych. 
+6;krokodyl nilowy;gady;Afryka;Samica krokodyla nilowego jest troskliw¹ matk¹. Po z³o¿eniu jaj niemal nie opuszcza gniazda i a¿ do wyklucia siê m³odych nie pobiera pokarmu. Kiedy maluchy ju¿ siê pojawi¹, mama czêsto przenosi je delikatnie w… swojej paszczy.
+7;orlicja;gady;Azja;To jeden z cenniejszych gatunków, które trafi³y do zoo w ramach wspólnej akcji azjatyckich organizacji ochrony œrodowiska i europejskich ogrodów zoologicznych.
+8;pyton skalny;gady;Afryka;Najwiêkszy reprezentant  afrykañskich wê¿y. Mo¿e osi¹gn¹æ  7,5 m d³ugoœci.
+9;pyton trygrysi;gady;Azja;Samice pytona owijaj¹ siê wokó³ z³o¿onych przez siebie jaj, nie tylko po to by je chroniæ, dostarczaj¹  te¿ ciep³a wytwarzanego poprzez skurcze i rozkurcze w³asnego cia³a. 
+10;¿ó³w czerwonolicy;gady;Ameryka Pó³nocna;Gatunek ten traktowany jest w Polsce i wielu innych krajach jako inwazyjny. Wypuszczany na wolnoœæ z prywatnych hodowli, mo¿e stanowiæ zagro¿enie dla naszego rodzimego ¿ó³wia b³otnego.
+11;¿ó³w promienisty;gady;Afryka;Ma on status gatunku krytycznie zagro¿onego.
+12;afrykanka senegalska;ptaki;Afryka;M³ode afrykanki senegalskie mo¿na ³atwo rozpoznaæ, poniewa¿ ich têczówki s¹ czarne przez pierwsze miesi¹ce ¿ycia. ¯ó³tego koloru nabieraj¹ z czasem.
+13;amazonka niebieskoczelna;ptaki;Ameryka Po³udniowa;Zidentyfikowano 9 ró¿nych wokalizacji, których u¿ywaj¹ te ptaki. Przynajmniej szeœæ z tych g³osów uda³o siê przypisaæ do konkretnych sytuacji zwi¹zanych z aktywnoœci¹ ptaków.
+14;ara zielona;ptaki;Ameryka Pó³nocna;Swoj¹ dietê uzupe³niaj¹ w mikroelementy li¿¹c glinê na stromych brzegach rzek. W ten sposób równie¿ neutralizuj¹ trucizny zawarte w zjadanych wczeœniej nasionach i pêdach roœlin.
+15;ararauna zwyczajna;ptaki;Ameryka Po³udniowa;Ozdobiona kreskami „twarz” pod wp³ywem emocji mo¿e zmieniaæ barwê. Dziób  jest doskona³ym narzêdziem do roz³upywania twardych orzechów, u¿ywany jest równie¿ jako podpora przy przemieszczaniu siê wœród ga³êzi.
+16;b³yszczak purpurowy;ptaki;Afryka;Efektowne, metalicznie po³yskuj¹ce pióra i ¿ó³te têczówki posiadaj¹ doros³e osobniki obojga p³ci.
+17;czerwonak ró¿owy;ptaki;Afryka;Doœæ dziwacznie zakrzywiony dziób doskonale jest przystosowany do pobierania pokarmu, polegaj¹cemu na odfiltrowywaniu z mu³u drobnych skorupiaków, owadów, zwierz¹t jednokomórkowych i glonów. A czerwonawe  zabarwienie piór pochodzi od... zwi¹zków karotenoidowych zawartych w pokarmie tych ptaków.
+18;dama niebieskobrzucha;ptaki;Australia;Lory tak¿e w miejscu wystêpowania czêsto staj¹ siê domowymi pupilami, poniewa¿ s¹ towarzyskie i ³atwo siê oswajaj¹.
+19;dzioboro¿ec kafryjski;ptaki;Afryka;Gêsto u³o¿one pióra wokó³ oczu pe³ni¹ to samo zadanie co rzêsy u ssaków – chroni¹ przed kurzem i s³oñcem. 
+20;guira;ptaki;Ameryka Po³udniowa;Ptaki te s¹ czu³e na zmiany temperatury w œrodowisku. Po okresie och³odzenia guiry spêdzaj¹ d³u¿szy czas na wygrzewaniu siê na s³oñcu lub przytulaniu do siebie nawzajem.
+21;kariama czerwonoga;ptaki;Ameryka Po³udniowa;Charakterystyczny, donoœny g³os tych ptaków przypomina gulgot lub histeryczny œmiech.
+22;kondor wielki;ptaki;Ameryka Po³udniowa;Samica kondora wielkiego ró¿ni siê od samca nie tylko brakiem „grzebienia” nad dziobem, ale tak¿e kolorem oczu, który u samic ma piêkn¹ g³êbok¹ czerwon¹ barwê.
+23;lorysa górska;ptaki;Australia;Dzioba u¿ywa jak „trzeciej nogi”, gdy wspinania siê po drzewach.
+24;³abêdŸ czarny;ptaki;Australia;Wed³ug legend Aborygenów przodkami jednego z plemion by³y ³abêdzie czarne, które zamieni³y siê w ludzi. Wizerunek tego ptaka zosta³ umieszczony na fladze Australii Zachodniej.
+25;magelanka rudog³owa;ptaki;Ameryka Po³udniowa; Gniazdo tego ptaka jest zawsze dobrze ukryte wœród roœlinnoœci. Samica zajmuje siê wysiadywaniem jaj i wodzeniem piskl¹t, natomiast samiec przez ca³y ten czas przebywa w pobli¿u gniazda strzeg¹c terytorium.
+26;nandu szare;ptaki;Ameryka Po³udniowa;Nandu jest najwiêkszym ptakiem Ameryki Po³udniowej. Osi¹ga wysokoœæ  127 - 140 cm, a jego masa  cia³a wynosi  20 -25 kg.  Lokalna nazwa „nandu” pochodzi od charakterystycznego, g³êbokiego g³osu przypominaj¹cego ryk.
+27;pelikan baba;ptaki;Azja; S¹ to jedne z najciê¿szych ptaków zdolnych do lotu. Masa ich cia³a dochodzi do 11 kg. 
+28;pingwin toniec;ptaki;Ameryka Po³udniowa;Intensywne po³owy sardeli i wycieki  ropy naftowej do morza to g³ówne przyczyny zagro¿enia dla gatunku.
+29;uchacz wirgiñski;ptaki;Ameryka Po³udniowa;G³osem oznacza terytorium, którego zasiêg uzale¿niony jest od dostêpnoœci pokarmu.
+30;sowa œnie¿na;ptaki;Ameryka Pó³nocna;Wypluwki zwane równie¿ zrzutkami - to niestrawione resztki pokarmu (sierœci, koœci, piór, chitynowych czêœci owadów), które  pod postaci¹ zwartej kluski s¹ usuwane z ¿o³¹dka ptaka za pomoc¹ odruchu wymiotnego.
+31;szpak bazilijski;ptaki;Azja;W jêzyku miejscowej ludnoœci szpak balijski nazywany jest kedis putih, co znaczy „bia³y ptak”. Jedn¹ z przyczyn dramatycznego spadku liczebnoœci tego gatunku na wolnoœci jest wiara w to, ¿e bia³y ptak przynosi szczêœcie i b³ogos³awieñstwo dla domu.
+32;¿uraw koroniasty szaroszyi;ptaki;Ameryka Po³udniowa;¯uraw koroniasty jest symbolem narodowym Ugandy. W wielu kulturach czujnoœæ, d³ugowiecznoœæ, m¹droœæ i wiernoœæ nale¿¹ do najczêœciej ³¹czonych z tym ptakiem  pozytywnych cech. Zachowania godowe znalaz³y swoje odzwierciedlenie w przepiêknych tañcach  dziewcz¹t z afrykañskiego plemienia Watussi. 
+33;alpaka;ssaki;Ameryka Po³udniowa;Alpaka zosta³a udomowiona przez Inków. Z bardzo delikatnej we³ny alpaki (w³os ma œrednicê 12-28 mikrometra) produkuje siê wysokiej klasy odzie¿ i koce. Umaszczenie alpaki jest bardzo ró¿ne – od bia³ego, po br¹zowoczarny, niekiedy z bia³ymi i br¹zowymi ³atami.
+34;anoa;ssaki;Azja;Anoa mierz¹cy  86 cm w k³êbie i osi¹gaj¹cy wagê od 90 do 225 kg jest najmniejszym dziko ¿yj¹cym przedstawicielem krêtorogich (Bovidae). D³ugoœæ ¿ycia: do 30 lat.
+35;bongo;ssaki;Afryka;To najwiêksza spoœród afrykañskich antylop leœnych. 
+36;eland;ssaki;Afryka;W Nowej Askanii, na terenie Rosji, w gospodarstwie doœwiadczalnym podejmowano próby udomowienia tego gatunku. Oswojone samice pozwala³y opiekunom na regularne dojenie.
+37;fennek;ssaki;Afryka;Pomimo ma³ych rozmiarów jest œwietnym myœliwym, a to g³ównie dziêki wyj¹tkowej sprawnoœci ruchowej, która u³atwia mu te¿  szybkie kopanie nor w piasku.
+38;gepard;ssaki;Afryka;Gepard mo¿e przyspieszyæ od 0 do 100 km/h w ci¹gu trzech sekund - tak samo, jak bolidy Formu³y 1.
+39;gereza;ssaki;Afryka;D³onie gerezy maj¹ tylko 4 palce – s¹ pozbawione kciuków. Wynika to z anatomicznego przystosowania do szybkiego poruszania siê w koronach drzew.
+40;gibbony;ssaki;Ameryka Po³udniowa;Kiedy zwierzêta te stan¹ w pozycji wyprostowanej, ich bardzo d³ugie rêce siêgaj¹ im a¿ po kostki stóp. Charakterystyczny sposób poruszania siê wœród koron drzew za pomoc¹ górnych koñczyn zwany jest brachiacj¹.
+41;hipopotam kar³owaty;ssaki;Afryka; e wzglêdu na unikaln¹ strukturê skóry, hipopotamy maj¹ wyj¹tkowo wysokie wskaŸniki utraty wody, trzy do piêciu razy wiêksze ni¿ u cz³owieka. To dlatego spêdzaj¹ wiêkszoœæ czasu w wodzie.
+42;jaki;ssaki;Azja;Jak jest ma³o wymagaj¹cy pod wzglêdem pokarmu. W swoim naturalnym œrodowisku ¿ywi siê trawami, zio³ami oraz inn¹ sk¹p¹ roœlinnoœci¹ górsk¹. W odrywaniu mchów i porostów od skalistego pod³o¿a pomocny jest mu bardzo szorstki jêzyk.
+43;kapibara;ssaki;Ameryka Po³udniowa; Kapibara jest najwiêkszym wspó³czeœnie ¿yj¹cym gryzoniem œwiata. Osi¹ga wagê nawet do 66 kg!
+44;koati po³udniowy;ssaki;Ameryka Pó³nocna;W czasie poszukiwania zdobyczy koati pos³uguje siê przede wszystkim wêchem, a nie wzrokiem – swój ³up potrafi wykryæ na g³êbokoœci ponad 30 cm pod ziemi¹.
+45;kot arabski;ssaki;Azja;Doœæ d³ugie w³oski, rosn¹ce miêdzy palcami stóp i tworz¹ce futrzan¹ poduszeczkê, zapobiegaj¹ zapadaniu siê w piasek oraz izoluj¹ od rozgrzanej jego powierzchni. Toaleta pielêgnacyjna futra jest bardzo podobna do zwyczajów naszego kota domowego.
+46;lama;ssaki;Ameryka Po³udniowa;Lama w znacznym stopniu przyczyni³a siê do powstania potêgi  pañstwa Inków. W dzisiejszych czasach, w andyjskich wioskach gdzie trudno o drewno, odchody s¹ u¿ywane jako opa³, ponadto s³u¿¹ jako nawóz na ubogie gleby.
+47;lew angolski;ssaki;Afryka;Lew jako symbol odwagi, si³y i szlachetnoœci  nale¿y do najstarszych i najbardziej znanych zwierz¹t heraldycznych. W tej roli wystêpuje równie¿ w herbie Miasta Gdañska. W wierzeniach staro¿ytnego Egiptu lwice strzeg³y ludzi przed chorobami i klêskami ¿ywio³owymi. W chrzeœcijañstwie sta³ siê symbolem boskiej opieki, uosobieniem mocy i potêgi.
+48;madryl;ssaki;Afryka Zachodnia;Kiedy samiec mandryla grozi rywalowi lub drapie¿nikowi, otwiera szeroko pysk, ukazuj¹c imponuj¹ce k³y o d³ugoœci 6,5 cm.  
+49;mund¿ak chiñski;ssaki;Azja;Mund¿ak bywa czêsto nazywany szczekaj¹cym jeleniem, poniewa¿ w okresie godowym lub w razie niebezpieczeñstwa wydaje dŸwiêki przypominaj¹ce szczekanie psa.
+50;orangutan;ssaki;Azja;Orangutan jest najwiêkszym i najciê¿szym ssakiem prowadz¹cym nadrzewny tryb ¿ycia. Samiec mo¿e osi¹gn¹æ wagê 90 kg.
+51;panda ma³a;ssaki;Azja;Panda ma³a jest jednym z niewielu zwierz¹t, których dieta sk³ada siê prawie wy³¹cznie z bambusa, który jest ubogi w sk³adniki od¿ywcze. 
+52;pantera perska;ssaki;Azja;Pantera perska nale¿y do jednego z najrzadszych podgatunków lamparta  (Panthera pardus). G³ówne przyczyny zagro¿enia to polowania k³usowników dla pozyskania trofeów, dzia³ania wojenne i szkolenia wojskowe, intensyfikacja rolnictwa i górnictwa.
+53;puma;ssaki;Ameryka Pó³nocna;Puma zwana jest równie¿ kuguarem lub czerwonym tygrysem.
+54;sitatunga;ssaki;Afryka;Je¿eli przed porodem samica nie znajdzie odpowiednio suchego pod³o¿a, sama przygotowuje z suchych trzcin specjaln¹ matê na podmok³ym terenie.
+55;s³oñ afrykañski;ssaki;Afryka;Samiec s³onia afrykañskiego mo¿e osi¹gn¹æ wagê 6 ton. Ciosy (b³êdnie zwane k³ami) to wyspecjalizowane siekacze, które rosn¹ przez ca³e ¿ycie. Najwiêkszy znany cios mierzy³ 3,47 m i wa¿y³ 102 kg.
+56;surokatka;ssaki;Afryka Po³udniowa;Stra¿nik ostrzegaj¹cy przed niebezpieczeñstwem, niania do m³odych,nauczyciel zdobywania pokarmu – to przyk³ady funkcji pe³nionych na co dzieñ przez te zwierzêta. Oczywiœcie nie mo¿e te¿ zabrakn¹æ codziennych wzajemnych pieszczot, które wzmagaj¹ ich i tak bardzo silne wiêzi rodzinne.
+57;szympans;ssaki;Afryka;Szympans to nasz bliski krewniak, szacuje siê, ¿e z cz³owiekiem ³¹czy go 98% wspólnych genów. O inteligencji i manualnych zdolnoœciach szympansów œwiadczy wykonywanie przez nie narzêdzi oraz pos³ugiwanie siê nimi, na przyk³ad w celu wydobycia termitów z kopca  lub miodu  z  gniazda  pszczelego.
+58;tygrys amurski;ssaki;Azja;Ka¿dy tygrys ma inny uk³ad pasów na ciele.
+59; wielb³¹d jednogarbny;ssaki;Afryka;W gdañskim zoo wielb³¹dy „pracuj¹” – z zapa³em obgryzaj¹ korê ze œciêtych drzew. Okorowane drewno zostaje wykorzystane do dekoracji innych wybiegów b¹dŸ przeznaczone na deski.
+60;wyjec czarny;ssaki;Ameryka Po³udniowa;Umaszczenie samców jest czarne, samic i m³odych natomiast p³owo¿ó³te.
+61;zebra Chapmana;ssaki;Afryka Po³udniowa;Wed³ug powszechnej opinii zebry s¹ bia³e i maj¹ czarne pasy. Najnowsze badania wykazuj¹ jednak, ¿e jest odwrotnie: ich sierœæ ma w rzeczywistoœci barwê czarn¹ z bia³ymi pasami. Natomiast ju¿ od dawna wiadomo, ¿e rysunek pasów ka¿dej zebry jest niepowtarzalny.
+62;¿eneta afrykañska;ssaki;Afryka;W œredniowieczu hodowano ¿enety jako zwierzêta domowe do zwalczania gryzoni oraz w celu pozyskiwania pi¿ma dla potrzeb przemys³u perfumeryjnego.
+63;¿yrafa;ssaki;Afryka;¯yrafy, podobnie jak wiêkszoœæ ssaków, maj¹ 7 krêgów szyjnych. Tylko ¿e ka¿dy z nich ma prawie 30 centymetrów d³ugoœci! D³uga szyja pozwala tym zwierzêtom siêgaæ po po¿ywienie znajduj¹ce siê na niedostêpnej dla innych wysokoœci. W naturze przysmakiem ¿yraf s¹ liœcie akacji.
+64;¿bik;ssaki;Europa;¯bik jest o wiele mniejszy od rysia i raczej unika terenów ³owieckich swojego krewniaka. Wed³ug szacunków, w Polsce na wolnoœci ¿yje oko³o 200 ¿bików.  Przyczyn¹ zmniejszania siê liczebnoœci ¿bika jest podzia³ kompleksów leœnych poprzez budowê dróg, tworzenie jednowiekowych monokultur leœnych ubogich w zasoby pokarmowe. Poniewa¿ gatunek ten czêsto ³¹czy siê  w pary ze zdzicza³ymi kotami domowymi, w œrodkowej Europie nie ma ju¿ wiele ¿bików czystej krwi.
+65;wilk;ssaki;Europa;W Polsce liczebnoœæ wilków szacowana jest na ponad 500 osobników.

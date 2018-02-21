@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Zoo Gdańsk</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" type="text/css" href="css/csszoo.css" />
+        <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script src="scripts/calculatingDistance.js"></script>
+    </head>
+    <body>
+    <div id="container"> 
+        <div id="header"></div>
+        <div id="bar"> 
+            <div class="menu"> <a href="index.html">Strona domowa</a> </div>
+            <div class="menu"> <a href="animals.html">Zwierzęta</a> </div>
+            <div class="menu"> <a href="map.html">Lokalizacja</a></div>
+            <div class="menu"> <a href="distance.html">Jak daleko?</a> </div>
+            <div class="menu"> <a href="weather.html">ZOObacz pogodę</a> </div>
+        </div>
+        <div id="page">
+            
+        <form id="distance_form" action="javascript:getDistance()" method="post" enctype="multipart/form-data">
+            <p class="bodyTitle">Dowiedz się, jak daleko masz do Gdańska!
+            </br></br>Wpisz miasto, z którego wyruszasz: 
+            <input form="distance_form" class="form_element" type="text" name="origin">
+            </br>Wybierz środek transportu: 
+            <select class="form_element" name="travel_mode">
+                <option>samochód</option>
+                <option>rower</option>
+                <option>komunikacja publiczna</option>
+                <option>pieszo</option>
+            </select>
+            </br>Wybierz jednostki odległości:
+            <select class="form_element" name="units">
+                <option>metry</option>
+                <option>mile</option>
+            </select></p>
+            <input type="submit" value="Wyświetl"/><br/><br/>
+        </form>
+            
+        <div id="log">
+            <img src="images/monkey.png"/>
+        </div>
+            
+        </div> 
+    </div>
+    </body>
+</html>

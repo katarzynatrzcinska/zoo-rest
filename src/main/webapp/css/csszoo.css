@@ -1,0 +1,208 @@
+* 
+{
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+
+body 
+{
+    background-color: #C7C7C7;
+}
+
+#header 
+{
+    width: 950px;
+    height: 125px;
+    margin-left: 29px;
+    margin-right: 21px;
+    background: url(../images/header.png) no-repeat;
+}
+
+#bar
+{
+    width: 950px;
+    height: 50px;
+    margin-left: 29px;
+    margin-right: 21px;
+    background: url(../images/bar.png) no-repeat;
+}
+
+.menu
+{
+    height: 35px;
+    width: 190px;
+    float: left;
+    text-align: center;
+    padding-top: 19px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: #252F33;
+}
+
+.menu:hover
+{
+    background: url(../images/bar2.png) repeat-x;
+}
+
+a
+{
+    text-decoration: none;
+    color: #252F33;
+}
+
+#container
+{
+    width: 1008px;
+    background: url(../images/background.png) repeat-y;
+}
+
+#page
+{
+    width: 850px;
+    margin-left: 80px;
+}
+
+.bodyTitle
+{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-size: 14px;
+    color: #252F33;
+}
+
+p
+{
+    width: auto;
+    text-align: left;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 13px;
+    line-height: 24px;
+    color: #252F33;
+}
+
+#map 
+{
+    height: 400px;
+    width: 100%;
+}
+
+input[type=button], input[type=submit] 
+{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 8px;
+    cursor: pointer;
+}
+
+table 
+{
+    border-spacing: 0;
+    overflow-x:auto;
+}
+
+th, td 
+{
+    padding: 10px 15px;
+}
+
+thead 
+{
+    background: #395870;
+    color: white;
+}
+
+tbody tr:nth-child(even)
+{
+    background: #f0f0f2;
+}
+
+.form_element 
+{
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+@media 
+only screen and (max-width: 760px),
+(min-device-width: 350px) and (max-device-width: 1024px)  {
+
+    input[type=button], input[type="submit"]  
+    {
+        display: block;
+        margin: 0.4em auto;
+        font-size:24px;
+    }
+    
+    .menu 
+    {
+        font-size: 24px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        height: 20px;
+        display: block;
+        width: 100%;
+        background: url(../images/bar.png);
+    }
+
+    p.bodyTitle, p, .bodyTitle, .form_element
+    {
+        font-size: 20px;
+    }
+    
+    table 
+    { 
+        width: 100%; 
+    }
+
+    /* Force table to not be like tables anymore */
+    table, thead, tbody, th, td, tr 
+    { 
+        display: block; 
+    }
+
+    /* Hide table headers (but not display: none;, for accessibility) */
+    thead tr 
+    { 
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+    }
+
+    tr 
+    { 
+        border: 1px 
+        solid #ccc; 
+    }
+
+    td 
+    { 
+        /* Behave  like a "row" */
+        border: none;
+        border-bottom: 1px solid #eee; 
+        position: relative;
+        padding-left: 50%; 
+    }
+
+    td:before 
+    { 
+        /* Now like a table header */
+        position: absolute;
+        /* Top/left values mimic padding */
+        top: 6px;
+        left: 6px;
+        width: 45%; 
+        padding-right: 10px; 
+        white-space: nowrap;
+        /* Label the data */
+        content: attr(data-column);
+
+        color: #000;
+        font-weight: bold;
+    }
+}
